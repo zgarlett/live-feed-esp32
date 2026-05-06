@@ -43,6 +43,8 @@
 build/
 Build/
 build-*/
+.pio/
+.vscode/
 
 # CMake generated files
 CMakeFiles/
